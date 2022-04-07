@@ -1,0 +1,15 @@
+E:\MY DOCUMENT\Bo\Code\CS\AbstractFactory\AbstractFactory\bin\Debug\net6.0\AbstractFactory.exe
+E:\MY DOCUMENT\Bo\Code\CS\AbstractFactory\AbstractFactory\bin\Debug\net6.0\AbstractFactory.deps.json
+E:\MY DOCUMENT\Bo\Code\CS\AbstractFactory\AbstractFactory\bin\Debug\net6.0\AbstractFactory.runtimeconfig.json
+E:\MY DOCUMENT\Bo\Code\CS\AbstractFactory\AbstractFactory\bin\Debug\net6.0\AbstractFactory.dll
+E:\MY DOCUMENT\Bo\Code\CS\AbstractFactory\AbstractFactory\bin\Debug\net6.0\AbstractFactory.pdb
+E:\MY DOCUMENT\Bo\Code\CS\AbstractFactory\AbstractFactory\obj\Debug\net6.0\AbstractFactory.csproj.AssemblyReference.cache
+E:\MY DOCUMENT\Bo\Code\CS\AbstractFactory\AbstractFactory\obj\Debug\net6.0\AbstractFactory.GeneratedMSBuildEditorConfig.editorconfig
+E:\MY DOCUMENT\Bo\Code\CS\AbstractFactory\AbstractFactory\obj\Debug\net6.0\AbstractFactory.AssemblyInfoInputs.cache
+E:\MY DOCUMENT\Bo\Code\CS\AbstractFactory\AbstractFactory\obj\Debug\net6.0\AbstractFactory.AssemblyInfo.cs
+E:\MY DOCUMENT\Bo\Code\CS\AbstractFactory\AbstractFactory\obj\Debug\net6.0\AbstractFactory.csproj.CoreCompileInputs.cache
+E:\MY DOCUMENT\Bo\Code\CS\AbstractFactory\AbstractFactory\obj\Debug\net6.0\AbstractFactory.dll
+E:\MY DOCUMENT\Bo\Code\CS\AbstractFactory\AbstractFactory\obj\Debug\net6.0\refint\AbstractFactory.dll
+E:\MY DOCUMENT\Bo\Code\CS\AbstractFactory\AbstractFactory\obj\Debug\net6.0\AbstractFactory.pdb
+E:\MY DOCUMENT\Bo\Code\CS\AbstractFactory\AbstractFactory\obj\Debug\net6.0\AbstractFactory.genruntimeconfig.cache
+E:\MY DOCUMENT\Bo\Code\CS\AbstractFactory\AbstractFactory\obj\Debug\net6.0\ref\AbstractFactory.dll
